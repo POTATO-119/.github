@@ -43,3 +43,7 @@
 | **API Docs** | Swagger (SpringDoc OpenAPI 2.3.0) |
 
 ---
+<br>
+
+## 📅 Timeline
+* **수행 기간**: 2025.11 ~ 진행중
